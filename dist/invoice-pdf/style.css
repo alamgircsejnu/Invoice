@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+}
+.top-header{
+	width: 97%;
+	margin: auto;
+}
+#header td{
+	width: 33.33%;
+}
+#header td .logo{
+	color: #4DA5AE;
+}
+#header td ul{
+	padding: 0;
+	list-style: none;
+}
+#header td span{
+	float: right;
+	text-align: right;
+}
+.customer-details{
+	width: 85% !important;
+	margin: auto;
+}
+#bills{
+	width: 100%;
+	text-align: center;
+}
+#bills ul{
+	padding: 0;
+}
+#bills li{
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+	font-size: 10px;
+	background: #f1da36;
+	background: linear-gradient(to bottom, #f1da36 0%,#fefcea 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1da36', endColorstr='#fefcea',GradientType=0 );
+	position: relative;
+	width: 115px;
+	height: 50px;
+	padding: 10px;
+	border-radius: 10px;
+}
+#bills li p span:nth-child(1){
+	font-size: 10px;
+}
+#account-summery table td:nth-child(1){
+	width: 50%;
+}
+#account-summery table td:nth-child(2){
+	width: 20%;
+	text-align: right;
+}
+#account-summery table{
+	border-bottom: 1px solid black;
+}
+.product-list{
+	float: left;
+}
+.product-list th{
+	color: #4DA5AF;
+}
+.product-list td{
+	text-align: center;
+}
+
+.bill-summary{
+	float: left;
+}
+
+.bill-summary td{
+	text-align: center;
+	font-size: 10px;
+	padding: 2px;
+}
+
+.bill-summary td:nth-child(1){
+	text-align: left;
+}
+
+.footer{
+	margin-top: 10px;
+}
+.footer table{
+	margin: auto;
+	width: 98%;
+}
+.footer td{
+	width:25%;
+	padding: 5px;
+	vertical-align: top;
+	text-align: left;
+	font-size: 8px;
+}
+.footer td h3{
+	color: #4DA5AF;
+}
+.color-title{
+	color: #4DA5AF;
+}
+.amount{
+	font-size: 10px !important;
+}
+
+

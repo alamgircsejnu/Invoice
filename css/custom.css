@@ -1,0 +1,129 @@
+#profitDiv{
+    width: 320px;
+    margin-right: 3%;
+}
+#profit{
+    height: 35px;
+    font-size: 20px;
+    background-color: white;
+    color: #00a65a;
+    border: 0;
+    font-weight: bold;
+}
+#profit_calculate_button{
+    margin-right: 2%;
+}
+#basic-addon1{
+    font-size: 20px;
+    border: 0;
+}
+/*.invoice-item{*/
+    /*margin: 0 10px;*/
+    /*box-shadow: 0 0 2px 0 grey !important;*/
+/*}*/
+/*.invoice-item .divider{*/
+    /*border-bottom: 1px solid grey;*/
+    /*margin: 5px 0;*/
+/*}*/
+/*#invoice-item-table{*/
+    /*margin: 5px 0;*/
+    /*width: 100% !important;*/
+/*}*/
+#product-section div{
+    float: left;
+    padding: 5px;
+    height: 20px;
+    border: 1px solid gainsboro;
+    margin-bottom: -1px;
+}
+#product-section div span{
+    font-size: 13px;
+    margin: 0;
+    padding: 3px;
+}
+#product-section div input{
+    height: 29px;
+    font-size: 14px;
+    padding: 5px;
+}
+#product-section div select{
+    height: 29px;
+    font-size: 14px;
+    padding: 5px;
+}
+.invoice-section p {
+    margin: 0;
+    height: 60px;
+}
+.invoice-section {
+    padding: 5px;
+    border: 1px solid gainsboro;
+}
+
+/*#product-section div textarea{*/
+    /*height: 40px;*/
+    /*border-radius: 0;*/
+    /*font-size: 11px;*/
+    /*width: 300px;*/
+/*}*/
+/*#product-section div input{*/
+    /*height: 30px;*/
+/*}*/
+#product-item{
+}
+#product-quantity{
+}
+#basic-addon-quantity{
+    max-width: 60px!important;
+}
+#product-price{
+}
+#product-discount{
+}
+#product-taxRate{
+}
+#product-description{
+    padding: 5px;
+    border: 1px solid gainsboro;
+}
+
+#product-description textarea{
+    height: 60px;
+    border-radius: 0;
+    font-size: 14px !important;
+
+}
+#invoice-summery table{
+    margin-top: 8px;
+}
+#invoice-summery  table tr{
+    border-bottom: 1.5px solid gainsboro;
+    border-top: 1.5px solid gainsboro;
+}
+#invoice-summery  table  td:nth-child(1){
+}
+#invoice-summery  table  td{
+    padding: 5px 2px;
+    text-align: right !important;
+}
+#invoice-summery .discount-field{
+    max-width: 100px;
+    display: inline-table;
+}
+#invoice-summery .discount-field input{
+
+}
+
+#cloning-buttons button{
+
+    margin: 7px;
+}
+
+#drag-drop-upload form{
+    border: 2px dashed #EB7260;
+    box-shadow: 0 0 0 5px #373b44;
+    padding: 20px;
+    background: #373b44;
+    color: #fff;
+    text-align: center;
+}
